@@ -78,7 +78,7 @@ a{
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #4d5ae5;
+  background: #404bbf;
   cursor: pointer;
 }
 .hero-button:hover,
@@ -122,7 +122,7 @@ a{
 
 /*------team-----*/
 
-.team-titel{
+.team-titel, .portfolio-titel-main{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
