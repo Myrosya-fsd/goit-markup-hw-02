@@ -78,7 +78,7 @@ a{
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #404bbf;
+  background: #4d5ae5;
   cursor: pointer;
 }
 .hero-button:hover,
@@ -88,21 +88,7 @@ a{
 /*-----feature------*/
 
 .feature{
- background: #f4f4fd;
-}
 
-.visually-hidden {
- position: absolute;
- width: 1px;
- height: 1px;
- margin: -1px;
- border: 0;
- padding: 0;
-
- white-space: nowrap;
- clip-path: inset(100%);
- clip: rect(0 0 0 0);
- overflow: hidden;
 }
 
 .feature-list-item-title{
@@ -121,7 +107,13 @@ a{
 }
 
 /*------team-----*/
+.team{
+background-color: #F4F4FD;
+}
 
+.team-list{
+    background-color: #FFFFFF
+}
 .team-titel, .portfolio-titel-main{
     font-weight: 700;
     font-size: 36px;
@@ -130,7 +122,14 @@ a{
     text-align: center;
     color: #2e2f42;
 }
+ .team-titel,
+ .portfolio-titel-main {
+ text-transform: capitalize ;
+}
 
+.team-list-item{
+ background-color: #FFFFFF
+}
 .team-list-title{
   font-weight: 500;
     font-size: 20px;
