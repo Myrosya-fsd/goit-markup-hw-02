@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color; #fff;
+ background-color: #FFFFFF;
     
 }
 
@@ -150,7 +150,7 @@ a{
     color: #2e2f42;
 }
 .team-titel{
-    text-transform: capitalize;
+text-transform: capitalize;
 }
 
 .team-list{
